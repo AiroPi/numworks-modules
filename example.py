@@ -1,4 +1,4 @@
-# The game can be found here, if you want to test it with better performance on your numwroks !
+# The game can be found here, if you want to test it with better performance on your numworks !
 # https://workshop.numworks.com/python/airopi/snake
 
 from kandinsky import *
